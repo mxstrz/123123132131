@@ -22,6 +22,8 @@ if "@" not in a:
         if "@" not in a:
             print("Atempts 0")
             exit()
+        else:
+            print("Email is correct")
 
 
 #print(f"Email: {a}")
